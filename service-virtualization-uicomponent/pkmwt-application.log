@@ -1,0 +1,960 @@
+2015-09-19 18:31:56 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-19 18:31:56 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-19 18:31:56 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-19 18:31:56 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-19 18:31:56 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-19 18:36:26 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-19 18:36:26 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-19 18:36:26 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-19 18:36:26 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-19 18:36:26 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-19 18:50:47 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-19 18:50:47 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-19 18:50:47 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-19 18:50:47 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-19 18:50:47 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-19 18:51:37 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-19 18:51:37 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-19 18:51:37 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-19 18:51:37 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-19 18:51:37 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-19 18:56:58 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-19 18:56:58 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-19 18:56:58 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-19 18:56:58 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-19 18:56:58 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-19 18:58:17 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-19 18:58:17 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-19 18:58:17 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-19 18:58:17 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-19 18:58:17 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-19 18:58:39 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-19 18:58:39 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-19 18:58:39 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-19 18:58:39 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-19 18:58:39 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-19 18:59:32 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-19 18:59:32 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-19 18:59:32 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-19 18:59:32 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-19 18:59:32 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-19 19:01:03 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-19 19:01:03 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-19 19:01:03 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-19 19:01:03 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-19 19:01:03 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-19 19:03:34 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-19 19:03:34 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-19 19:03:34 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-19 19:03:34 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-19 19:03:34 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-19 19:08:05 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-19 19:08:05 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-19 19:08:05 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-19 19:08:05 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-19 19:08:05 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-19 19:14:17 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-19 19:14:17 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-19 19:14:17 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-19 19:14:17 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-19 19:14:17 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-19 19:14:48 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-19 19:14:48 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-19 19:14:48 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-19 19:14:48 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-19 19:14:48 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-19 19:16:45 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-19 19:16:45 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-19 19:16:45 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-19 19:16:45 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-19 19:16:45 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-19 19:18:04 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-19 19:18:04 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-19 19:18:04 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-19 19:18:04 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-19 19:18:04 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-19 19:18:49 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-19 19:18:49 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-19 19:18:49 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-19 19:18:49 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-19 19:18:49 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-19 19:25:09 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-19 19:25:09 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-19 19:25:09 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-19 19:25:09 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-19 19:25:09 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-19 19:27:49 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-19 19:27:49 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-19 19:27:49 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-19 19:27:49 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-19 19:27:49 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-19 19:47:17 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-19 19:47:17 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-19 19:47:17 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-19 19:47:17 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-19 19:47:17 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-19 19:48:23 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-19 19:48:23 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-19 19:48:23 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-19 19:48:23 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-19 19:48:23 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-19 23:15:39 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-19 23:15:39 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-19 23:15:39 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-19 23:15:39 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-19 23:15:39 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 00:31:09 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 00:31:09 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 00:31:09 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 00:31:09 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 00:31:09 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 00:59:04 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 00:59:04 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 00:59:04 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 00:59:04 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 00:59:04 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 01:26:23 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 01:26:24 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 01:26:24 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 01:26:24 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 01:26:24 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 01:28:44 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 01:28:44 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 01:28:44 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 01:28:44 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 01:28:44 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 01:30:47 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 01:30:47 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 01:30:47 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 01:30:47 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 01:30:47 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 01:38:57 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 01:38:57 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 01:38:57 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 01:38:57 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 01:38:57 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 01:41:02 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 01:41:02 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 01:41:02 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 01:41:02 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 01:41:02 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 01:42:15 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 01:42:15 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 01:42:15 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 01:42:15 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 01:42:15 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 01:42:30 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 01:42:30 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 01:42:30 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 01:42:31 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 01:42:31 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 01:50:11 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 01:50:11 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 01:50:11 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 01:50:11 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 01:50:11 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 01:51:37 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 01:51:37 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 01:51:37 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 01:51:37 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 01:51:37 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 01:54:14 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 01:54:14 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 01:54:14 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 01:54:14 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 01:54:14 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 01:58:19 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 01:58:19 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 01:58:19 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 01:58:19 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 01:58:19 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 01:59:37 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 01:59:37 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 01:59:37 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 01:59:37 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 01:59:37 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 01:59:57 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 01:59:57 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 01:59:57 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 01:59:57 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 01:59:57 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 02:04:37 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 02:04:37 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 02:04:37 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 02:04:37 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 02:04:37 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 02:05:37 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 02:05:37 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 02:05:37 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 02:05:37 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 02:05:37 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 02:06:55 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 02:06:55 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 02:06:55 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 02:06:55 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 02:06:55 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 02:07:58 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 02:07:58 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 02:07:58 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 02:07:58 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 02:07:58 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 02:10:04 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 02:10:04 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 02:10:04 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 02:10:04 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 02:10:04 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 02:10:52 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 02:10:52 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 02:10:52 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 02:10:52 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 02:10:52 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 02:11:26 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 02:11:26 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 02:11:26 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 02:11:26 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 02:11:26 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 02:14:11 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 02:14:11 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 02:14:11 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 02:14:11 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 02:14:11 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 02:17:55 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 02:17:55 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 02:17:55 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 02:17:55 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 02:17:55 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 02:20:54 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 02:20:54 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 02:20:54 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 02:20:54 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 02:20:54 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 02:21:38 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 02:21:38 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 02:21:38 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 02:21:38 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 02:21:38 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 02:27:55 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 02:27:55 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 02:27:55 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 02:27:55 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 02:27:55 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 02:28:24 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 02:28:24 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 02:28:24 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 02:28:24 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 02:28:24 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 02:31:22 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 02:31:22 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 02:31:22 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 02:31:22 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 02:31:22 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 02:44:03 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 02:44:03 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 02:44:03 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 02:44:03 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 02:44:03 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 02:44:32 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 02:44:32 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 02:44:32 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 02:44:32 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 02:44:32 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 02:45:45 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 02:45:45 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 02:45:45 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 02:45:45 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 02:45:45 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 02:46:32 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 02:46:32 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 02:46:32 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 02:46:32 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 02:46:32 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 02:46:51 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 02:46:51 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 02:46:51 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 02:46:51 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 02:46:51 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 02:48:08 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 02:48:08 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 02:48:08 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 02:48:08 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 02:48:08 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 02:48:27 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 02:48:27 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 02:48:27 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 02:48:27 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 02:48:27 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 02:49:30 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 02:49:30 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 02:49:30 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 02:49:30 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 02:49:30 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 02:52:41 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 02:52:41 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 02:52:41 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 02:52:41 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 02:52:41 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 02:53:00 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 02:53:00 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 02:53:00 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 02:53:00 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 02:53:00 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 02:53:17 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 02:53:17 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 02:53:17 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 02:53:17 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 02:53:17 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 02:54:33 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 02:54:33 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 02:54:33 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 02:54:33 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 02:54:33 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 02:56:19 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 02:56:19 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 02:56:19 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 02:56:19 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 02:56:19 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 02:57:50 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 02:57:50 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 02:57:50 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 02:57:50 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 02:57:50 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 02:58:11 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 02:58:11 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 02:58:11 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 02:58:11 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 02:58:11 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 03:02:30 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 03:02:30 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 03:02:30 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 03:02:30 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 03:02:30 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 03:03:23 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 03:03:23 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 03:03:23 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 03:03:23 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 03:03:23 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 03:04:30 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 03:04:30 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 03:04:30 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 03:04:30 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 03:04:30 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 03:04:55 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 03:04:55 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 03:04:55 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 03:04:55 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 03:04:55 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 03:05:38 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 03:05:38 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 03:05:38 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 03:05:38 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 03:05:38 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 03:06:13 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 03:06:13 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 03:06:13 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 03:06:13 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 03:06:13 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 03:07:07 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 03:07:07 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 03:07:07 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 03:07:07 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 03:07:07 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 03:07:46 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 03:07:46 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 03:07:46 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 03:07:46 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 03:07:46 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 03:08:47 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 03:08:47 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 03:08:47 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 03:08:47 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 03:08:47 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 10:04:22 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 10:04:22 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 10:04:22 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 10:04:22 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 10:04:22 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 10:07:58 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 10:07:58 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 10:07:58 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 10:07:58 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 10:07:58 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 10:09:17 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 10:09:17 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 10:09:17 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 10:09:17 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 10:09:17 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 10:09:56 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 10:09:56 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 10:09:56 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 10:09:56 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 10:09:56 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 10:12:24 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 10:12:24 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 10:12:24 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 10:12:24 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 10:12:24 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 10:12:39 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 10:12:39 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 10:12:39 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 10:12:39 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 10:12:39 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 12:15:02 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 12:15:02 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 12:15:02 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 12:15:02 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 12:15:02 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 12:16:48 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 12:16:48 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 12:16:48 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 12:16:48 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 12:16:48 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 12:18:00 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 12:18:00 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 12:18:00 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 12:18:00 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 12:18:00 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 12:20:00 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 12:20:00 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 12:20:00 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 12:20:00 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 12:20:00 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 12:21:53 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 12:21:53 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 12:21:53 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 12:21:53 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 12:21:53 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 12:22:20 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 12:22:20 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 12:22:20 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 12:22:20 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 12:22:20 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 12:22:48 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 12:22:48 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 12:22:48 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 12:22:48 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 12:22:48 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 12:25:49 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 12:25:49 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 12:25:49 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 12:25:49 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 12:25:49 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 12:26:07 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 12:26:07 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 12:26:07 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 12:26:07 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 12:26:07 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 12:26:35 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 12:26:35 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 12:26:35 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 12:26:35 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 12:26:35 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 12:28:51 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 12:28:51 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 12:28:51 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 12:28:51 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 12:28:51 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 12:30:03 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 12:30:03 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 12:30:03 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 12:30:03 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 12:30:03 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 12:30:21 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 12:30:21 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 12:30:21 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 12:30:21 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 12:30:21 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 12:30:48 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 12:30:48 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 12:30:48 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 12:30:48 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 12:30:48 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 12:31:08 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 12:31:08 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 12:31:08 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 12:31:08 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 12:31:08 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 12:31:26 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 12:31:26 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 12:31:26 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 12:31:26 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 12:31:26 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 12:31:54 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 12:31:54 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 12:31:54 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 12:31:54 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 12:31:54 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 12:32:36 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 12:32:36 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 12:32:36 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 12:32:36 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 12:32:36 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 12:32:56 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 12:32:56 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 12:32:56 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 12:32:56 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 12:32:56 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 12:33:13 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 12:33:13 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 12:33:13 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 12:33:13 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 12:33:13 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 12:33:34 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 12:33:34 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 12:33:34 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 12:33:34 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 12:33:34 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 12:33:50 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 12:33:50 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 12:33:50 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 12:33:50 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 12:33:50 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 12:34:06 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 12:34:06 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 12:34:06 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 12:34:06 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 12:34:06 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 12:34:29 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 12:34:29 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 12:34:29 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 12:34:29 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 12:34:29 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 12:35:03 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 12:35:03 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 12:35:03 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 12:35:03 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 12:35:03 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 12:35:20 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 12:35:20 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 12:35:20 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 12:35:20 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 12:35:20 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 12:36:12 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 12:36:12 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 12:36:12 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 12:36:12 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 12:36:12 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 12:37:28 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 12:37:28 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 12:37:28 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 12:37:28 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 12:37:28 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 12:37:43 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 12:37:43 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 12:37:43 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 12:37:43 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 12:37:43 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 12:40:26 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 12:40:26 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 12:40:26 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 12:40:26 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 12:40:26 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 12:42:22 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 12:42:22 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 12:42:22 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 12:42:22 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 12:42:22 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 12:43:35 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 12:43:35 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 12:43:35 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 12:43:35 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 12:43:35 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 12:55:17 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 12:55:17 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 12:55:17 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 12:55:17 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 12:55:17 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 13:27:26 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 13:27:26 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 13:27:26 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 13:27:26 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 13:27:26 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 13:29:37 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 13:29:37 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 13:29:37 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 13:29:37 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 13:29:37 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 13:30:09 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 13:30:09 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 13:30:09 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 13:30:09 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 13:30:09 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 13:30:39 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 13:30:39 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 13:30:39 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 13:30:39 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 13:30:39 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 13:32:42 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 13:32:42 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 13:32:42 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 13:32:42 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 13:32:42 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 13:32:55 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 13:32:55 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 13:32:55 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 13:32:55 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 13:32:55 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 13:43:17 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 13:43:17 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 13:43:17 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 13:43:17 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 13:43:17 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 13:45:19 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 13:45:19 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 13:45:19 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 13:45:19 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 13:45:19 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 13:54:27 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 13:54:27 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 13:54:27 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 13:54:27 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 13:54:27 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 13:58:33 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 13:58:33 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 13:58:33 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 13:58:33 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 13:58:33 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 14:04:15 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 14:04:15 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 14:04:15 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 14:04:15 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 14:04:15 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 14:16:24 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 14:16:24 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 14:16:24 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 14:16:24 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 14:16:24 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 14:19:14 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 14:19:14 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 14:19:14 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 14:19:14 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 14:19:14 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 14:21:20 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 14:21:20 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 14:21:20 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 14:21:20 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 14:21:20 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 14:26:11 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 14:26:11 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 14:26:11 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 14:26:11 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 14:26:11 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 14:30:53 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 14:30:53 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 14:30:53 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 14:30:53 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 14:30:53 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 14:33:07 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 14:33:07 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 14:33:07 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 14:33:07 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 14:33:07 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 14:37:03 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 14:37:03 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 14:37:03 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 14:37:03 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 14:37:03 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 14:38:11 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 14:38:11 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 14:38:11 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 14:38:11 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 14:38:11 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 14:38:24 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 14:38:24 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 14:38:24 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 14:38:24 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 14:38:24 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 14:38:59 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 14:38:59 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 14:38:59 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 14:38:59 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 14:38:59 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 14:43:34 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 14:43:34 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 14:43:34 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 14:43:34 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 14:43:34 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 14:43:41 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 14:43:41 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 14:43:41 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 14:43:41 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 14:43:41 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 14:46:17 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 14:46:17 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 14:46:17 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 14:46:17 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 14:46:17 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 14:47:59 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 14:47:59 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 14:47:59 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 14:47:59 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 14:47:59 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 14:49:47 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 14:49:47 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 14:49:47 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 14:49:47 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 14:49:47 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 14:51:27 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 14:51:27 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 14:51:27 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 14:51:27 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 14:51:27 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 14:52:27 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 14:52:27 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 14:52:27 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 14:52:27 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 14:52:27 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 14:54:58 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 14:54:58 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 14:54:58 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 14:54:58 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 14:54:58 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 14:55:42 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 14:55:42 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 14:55:42 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 14:55:42 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 14:55:42 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 14:59:18 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 14:59:18 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 14:59:18 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 14:59:18 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 14:59:18 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 15:13:21 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 15:13:21 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 15:13:21 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 15:13:21 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 15:13:21 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 15:15:07 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 15:15:07 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 15:15:07 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 15:15:07 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 15:15:07 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 15:17:24 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 15:17:24 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 15:17:24 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 15:17:24 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 15:17:24 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 15:19:21 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 15:19:21 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 15:19:21 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 15:19:21 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 15:19:21 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 15:20:54 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 15:20:54 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 15:20:54 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 15:20:54 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 15:20:54 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 15:28:00 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 15:28:00 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 15:28:00 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 15:28:00 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 15:28:00 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 15:31:02 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 15:31:02 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 15:31:02 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 15:31:02 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 15:31:02 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 15:31:22 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 15:31:22 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 15:31:22 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 15:31:22 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 15:31:22 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 15:31:38 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 15:31:38 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 15:31:38 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 15:31:38 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 15:31:38 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 15:32:54 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 15:32:54 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 15:32:54 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 15:32:54 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 15:32:54 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 16:25:51 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 16:25:51 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 16:25:51 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 16:25:51 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 16:25:51 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 16:30:45 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 16:30:45 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 16:30:45 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 16:30:45 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 16:30:45 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 18:09:18 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 18:09:18 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 18:09:18 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 18:09:18 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 18:09:18 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 18:10:14 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 18:10:14 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 18:10:14 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 18:10:14 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 18:10:14 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 18:13:22 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 18:13:22 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 18:13:22 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 18:13:22 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 18:13:22 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 18:15:25 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 18:15:25 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 18:15:25 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 18:15:25 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 18:15:25 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 18:15:57 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 18:15:57 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 18:15:57 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 18:15:57 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 18:15:57 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 18:16:22 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 18:16:22 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 18:16:22 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 18:16:22 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 18:16:22 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 18:17:44 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 18:17:44 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 18:17:44 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 18:17:44 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 18:17:44 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 18:20:03 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 18:20:03 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 18:20:03 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 18:20:03 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 18:20:03 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 18:21:43 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 18:21:43 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 18:21:43 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 18:21:43 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 18:21:43 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 18:22:55 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 18:22:55 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 18:22:55 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 18:22:55 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 18:22:55 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 18:23:58 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 18:23:58 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 18:23:58 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 18:23:58 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 18:23:58 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 18:24:35 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 18:24:35 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 18:24:35 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 18:24:35 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 18:24:35 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 18:26:26 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 18:26:26 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 18:26:26 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 18:26:26 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 18:26:26 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 18:48:42 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 18:48:42 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 18:48:42 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 18:48:42 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 18:48:42 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 18:50:12 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 18:50:12 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 18:50:12 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 18:50:12 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 18:50:12 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 20:49:28 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 20:49:28 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 20:49:28 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 20:49:28 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 20:49:28 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 20:50:40 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 20:50:40 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 20:50:40 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 20:50:40 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 20:50:40 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 20:54:44 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 20:54:44 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 20:54:44 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 20:54:44 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 20:54:44 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 21:00:13 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 21:00:13 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 21:00:13 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 21:00:13 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 21:00:13 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 21:03:40 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 21:03:40 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 21:03:40 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 21:03:40 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 21:03:40 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 21:05:50 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 21:05:50 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 21:05:50 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 21:05:50 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 21:05:50 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 21:07:01 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 21:07:01 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 21:07:01 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 21:07:01 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 21:07:01 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 21:07:35 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 21:07:35 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 21:07:35 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 21:07:35 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 21:07:35 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 22:26:08 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 22:26:08 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 22:26:08 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 22:26:08 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 22:26:08 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 22:27:21 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 22:27:21 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 22:27:21 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 22:27:21 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 22:27:21 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 22:30:20 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 22:30:20 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 22:30:20 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 22:30:20 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 22:30:20 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 22:31:06 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 22:31:06 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 22:31:06 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 22:31:06 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 22:31:06 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 22:31:53 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 22:31:53 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 22:31:53 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 22:31:53 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 22:31:53 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 22:35:15 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 22:35:15 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 22:35:15 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 22:35:15 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 22:35:15 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 22:36:30 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 22:36:30 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 22:36:30 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 22:36:30 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 22:36:30 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 22:39:37 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 22:39:37 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 22:39:37 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 22:39:37 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 22:39:37 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 22:43:06 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 22:43:06 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 22:43:06 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 22:43:06 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 22:43:06 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 22:50:38 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 22:50:38 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 22:50:38 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 22:50:38 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 22:50:38 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 22:51:29 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 22:51:29 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 22:51:29 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 22:51:29 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 22:51:29 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 23:02:20 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 23:02:20 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 23:02:20 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 23:02:20 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 23:02:20 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties
+2015-09-20 23:17:30 DEBUG PropertiesConfiguration:588 - FileName set to wiremockprops.properties
+2015-09-20 23:17:30 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is wiremockprops.properties
+2015-09-20 23:17:30 DEBUG DefaultFileSystem:281 - Could not locate file wiremockprops.properties at null: no protocol: wiremockprops.properties
+2015-09-20 23:17:30 DEBUG ConfigurationUtils:550 - Loading configuration from the context classpath (wiremockprops.properties)
+2015-09-20 23:17:30 DEBUG PropertiesConfiguration:626 - Base path set to file:///E:/middlewaretestingtool/servicevirtualizationuicomponent/target/classes/wiremockprops.properties

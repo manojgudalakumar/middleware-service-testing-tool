@@ -1,0 +1,16 @@
+{
+  "request" : {
+    "url" : "/sqlrest/CUSTOMER/",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-sqlrest-CUSTOMER-1E9iO.json",
+    "headers" : {
+      "Server" : "Apache-Coyote/1.1",
+      "Content-Type" : "application/xml",
+      "Date" : "Sat, 27 Jun 2015 16:52:43 GMT",
+      "Content-Length" : "4862"
+    }
+  }
+}

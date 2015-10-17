@@ -1,0 +1,17 @@
+{
+  "request" : {
+    "url" : "//maps/api/timezone/json?location=149.6034810,-119.6822510&timestamp=1331161200",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 404,
+    "bodyFileName" : "body-timezone-json-g5gLk.json",
+    "headers" : {
+      "Server" : "Apache-Coyote/1.1",
+      "Content-Type" : "text/html;charset=utf-8",
+      "Content-Language" : "en",
+      "Content-Length" : "1013",
+      "Date" : "Sat, 27 Jun 2015 16:57:16 GMT"
+    }
+  }
+}

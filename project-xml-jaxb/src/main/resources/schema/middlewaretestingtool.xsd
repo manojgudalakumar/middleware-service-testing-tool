@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+	<xs:element name="middlewaretestingtool" type="MiddleWareTestingTool">
+	</xs:element>
+	<xs:complexType name="ProxySettings">
+		<xs:sequence>
+			<xs:element name="proxy-hostname" type="xs:string" />
+			<xs:element name="proxy-port" type="xs:int" />
+			<xs:element minOccurs="0" name="proxy-user-name" type="xs:string" />
+			<xs:element name="proxy-password" minOccurs="0" type="xs:string" />
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="FolderDetails">
+		<xs:sequence>
+			<xs:element name="folder-name" type="xs:string" />
+			<xs:element name="folder-type" type="xs:string" />
+			<xs:element minOccurs="0" name="extra-information" type="xs:string" />
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="ProjectDetails">
+		<xs:sequence>
+			<xs:element name="project-name" type="xs:string">
+				<xs:annotation>
+					<xs:documentation>This is project name</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element name="project-short-name" type="xs:string">
+				<xs:annotation>
+					<xs:documentation>This is the short name of the project which will
+						used to store
+						in the mapping content and any other details
+					</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element minOccurs="0" name="project-description" type="xs:string" />
+			<xs:element name="last-updated-timestamp" type="xs:dateTime" />
+			<xs:element name="created-timestamp" type="xs:dateTime" />
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="PropertyMapping">
+		<xs:sequence>
+			<xs:element name="property-key" type="xs:string" />
+			<xs:element name="propety-value" type="xs:string" />
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="SoapServiceOverHttpDetails">
+		<xs:sequence>
+			<xs:element name="soap-virtualize-name" type="xs:string" />
+			<xs:element name="soap-virtualize-wsdl-url" type="xs:string" />
+			<xs:element name="soap-operation-name" type="xs:string" />
+			<xs:element name="soap-request-data" type="xs:string" />
+			<xs:element name="soap-response-data" type="xs:string" />
+			<xs:element name="soap-virtual-mapping-data-file-name"
+				type="xs:string" />
+			<xs:element name="last-updated-timestamp" type="xs:dateTime" />
+			<xs:element name="created-timestamp" type="xs:dateTime" />
+			<xs:element name="virtualize-soap-service-properties-list"
+				minOccurs="0">
+				<xs:complexType>
+					<xs:sequence maxOccurs="unbounded" minOccurs="0">
+						<xs:element name="service-test-property" type="PropertyMapping" />
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
+			<xs:element name="soap-virtual-reference-id" type="xs:string" />
+			<xs:element name="soap-virtual-end-point-url" type="xs:string" />
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="RestServiceDetails">
+		<xs:sequence>
+			<xs:element name="rest-virtualize-name" type="xs:string" />
+			<xs:element name="rest-virtualize-url" type="xs:string" />
+			<xs:element name="rest-virtual-mapping-data-file-name"
+				type="xs:string" />
+			<xs:element name="rest-virtualize-wadl-url" type="xs:string"
+				minOccurs="0" />
+			<xs:element name="response-data-type" type="RequestAndResponseDataType">
+			</xs:element>
+			<xs:element name="rest-request-data" type="xs:string"
+				minOccurs="0" />
+			<xs:element name="rest-response-data" type="xs:string"
+				minOccurs="0" />
+			<xs:element name="last-updated-timestamp" type="xs:dateTime" />
+			<xs:element name="created-timestamp" type="xs:dateTime" />
+			<xs:element minOccurs="0" name="request-data-type"
+				type="RequestAndResponseDataType" />
+			<xs:element name="virtualize-rest-service-properties-list"
+				minOccurs="0">
+				<xs:complexType>
+					<xs:sequence maxOccurs="unbounded" minOccurs="0">
+						<xs:element name="service-test-property" type="PropertyMapping" />
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
+			<xs:element name="rest-virtual-reference-id" type="xs:string" />
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="ServiceTestDetails">
+		<xs:sequence>
+			<xs:element name="service-test-name" type="xs:string" />
+			<xs:element minOccurs="0" name="service-test-description"
+				type="xs:string" />
+			<xs:element name="last-updated-timestamp" type="xs:dateTime" />
+			<xs:element name="created-timestamp" type="xs:dateTime" />
+			<xs:element name="service-test-reference-number" type="xs:string" />
+			<xs:element minOccurs="0"
+				name="service-test-parent-reference-number" type="xs:string" />
+			<xs:element name="service-test-properties-list" minOccurs="0">
+				<xs:complexType>
+					<xs:sequence maxOccurs="unbounded" minOccurs="0">
+						<xs:element name="service-test-property" type="PropertyMapping" />
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
+			<xs:element minOccurs="0" name="test-data-populater">
+				<xs:complexType>
+					<xs:choice>
+						<xs:element name="populate-from-csv-file" type="xs:string" />
+						<xs:element name="populate-from-xml-file" type="xs:string" />
+						<xs:element name="populate-from-excel-file" type="xs:string" />
+					</xs:choice>
+				</xs:complexType>
+			</xs:element>
+			<xs:element name="request-pattern" type="RequestPattern" />
+			<xs:element name="response-pattern" type="ResponsePattern" />
+			<xs:element name="service-test-endpoint-url" type="xs:string" />
+			<xs:element minOccurs="0" name="service-test-wsdl-url"
+				type="xs:string" />
+			<xs:element minOccurs="0" name="service-test-tags" type="xs:string">
+				<xs:annotation>
+					<xs:documentation>This will accepts the list of tags with comma
+						separated values
+					</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element minOccurs="0" name="extra-information-provided"
+				type="xs:string" />
+			<xs:element name="service-test-child-details-list">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element name="service-test-child-details" type="ServiceTestDetails"
+							maxOccurs="unbounded" minOccurs="0" />
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="RequestPattern">
+		<xs:sequence>
+			<xs:element minOccurs="0" name="request-body">
+				<xs:complexType>
+					<xs:choice>
+						<xs:element name="pull-request-as-string" type="xs:string">
+						</xs:element>
+						<xs:element name="pull-request-against-file" type="xs:string">
+						</xs:element>
+					</xs:choice>
+				</xs:complexType>
+			</xs:element>
+			<xs:element name="request-data-type" type="RequestAndResponseDataType"
+				minOccurs="0" />
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="ResponsePattern">
+		<xs:sequence>
+			<xs:element name="response-body" type="xs:string"
+				minOccurs="0" />
+			<xs:element minOccurs="0" name="response-data-type"
+				type="RequestAndResponseDataType" />
+			<xs:element name="header-detail-verification-list">
+				<xs:complexType>
+					<xs:sequence maxOccurs="unbounded" minOccurs="0">
+						<xs:element name="header-detail-verification">
+							<xs:complexType>
+								<xs:sequence>
+									<xs:element name="header-element-value" type="xs:string" />
+									<xs:element name="header-element-name" type="xs:string" />
+								</xs:sequence>
+							</xs:complexType>
+						</xs:element>
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
+			<xs:element name="response-data-verifications-list">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element minOccurs="0" name="path-verifications-list">
+							<xs:complexType>
+								<xs:sequence maxOccurs="unbounded" minOccurs="0">
+									<xs:element name="xpath-verification-set">
+										<xs:complexType>
+											<xs:sequence>
+												<xs:element name="xpath-value" type="xs:string" />
+												<xs:element name="xpath-key" type="xs:string" />
+											</xs:sequence>
+										</xs:complexType>
+									</xs:element>
+								</xs:sequence>
+							</xs:complexType>
+						</xs:element>
+						<xs:element minOccurs="0"
+							name="total-response-data-verification">
+							<xs:complexType>
+								<xs:choice>
+									<xs:element name="total-response-as-string">
+										<xs:complexType>
+											<xs:sequence>
+												<xs:element name="list-of-exclusion-element-tag-name"
+													type="xs:string" minOccurs="0">
+													<xs:annotation>
+														<xs:documentation>This element holds the comma seperated
+															list of the xml element tag-names
+														</xs:documentation>
+													</xs:annotation>
+												</xs:element>
+												<xs:element name="response-data" type="xs:string" />
+											</xs:sequence>
+										</xs:complexType>
+									</xs:element>
+									<xs:element name="compare-response-against-file">
+										<xs:complexType>
+											<xs:sequence>
+												<xs:element name="list-of-exclusion-element-tag-name"
+													type="xs:string" minOccurs="0">
+													<xs:annotation>
+														<xs:documentation>This element holds the comma seperated
+															list of the xml element tag-names
+														</xs:documentation>
+													</xs:annotation>
+												</xs:element>
+												<xs:element name="response-data-file" type="xs:string" />
+											</xs:sequence>
+										</xs:complexType>
+									</xs:element>
+									<xs:element name="substring-verication">
+										<xs:complexType>
+											<xs:choice>
+												<xs:element name="starts-with-this-content" type="xs:string" />
+												<xs:element name="ends-with-this-content" type="xs:string" />
+												<xs:element name="contains-this-content" type="xs:string" />
+											</xs:choice>
+										</xs:complexType>
+									</xs:element>
+								</xs:choice>
+							</xs:complexType>
+						</xs:element>
+						<xs:element minOccurs="0"
+							name="compliance-against-schema-or-wsdl">
+							<xs:complexType>
+								<xs:choice>
+									<xs:element name="validate-against-wsdl" type="xs:string" />
+									<xs:element name="validate-against-schema-for-url"
+										type="xs:string" />
+									<xs:element name="validate-against-schema-from-file"
+										type="xs:string" />
+								</xs:choice>
+							</xs:complexType>
+						</xs:element>
+						<xs:element minOccurs="0" name="response-time-verification">
+							<xs:complexType>
+								<xs:choice>
+									<xs:element name="greater-than-value" type="xs:long" />
+									<xs:element name="lesser-than-value" type="xs:long" />
+									<xs:element name="equals-to-value" type="xs:long" />
+								</xs:choice>
+							</xs:complexType>
+						</xs:element>
+						<xs:element minOccurs="0" name="check-soap-faults"
+							type="xs:boolean" />
+						<xs:element minOccurs="0" name="element-tag-count-list">
+							<xs:complexType>
+								<xs:sequence>
+									<xs:element minOccurs="0" maxOccurs="unbounded"
+										name="count-of-element-tag">
+										<xs:complexType>
+											<xs:sequence>
+												<xs:element name="element-tag-name" type="xs:string" />
+												<xs:element name="count-of-element-name" type="xs:long" />
+											</xs:sequence>
+										</xs:complexType>
+									</xs:element>
+								</xs:sequence>
+							</xs:complexType>
+						</xs:element>
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:simpleType name="RequestAndResponseDataType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="json" />
+			<xs:enumeration value="xml" />
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:complexType name="MiddleWareTestingTool">
+		<xs:sequence>
+			<xs:element name="date-time-config">
+				<xs:annotation>
+					<xs:documentation>This will store the date time config details and
+						its
+						formats
+					</xs:documentation>
+				</xs:annotation>
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element name="date-format" type="xs:string" />
+						<xs:element name="date-time-format" type="xs:string" />
+						<xs:element name="time-format" type="xs:string" />
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
+			<xs:element name="folderList">
+				<xs:complexType>
+					<xs:sequence maxOccurs="unbounded" minOccurs="0">
+						<xs:element name="folder" type="FolderDetails"
+							minOccurs="0">
+						</xs:element>
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
+			<xs:element name="proxy-settings" type="ProxySettings"
+				minOccurs="0" />
+			<xs:element name="root-level-properties-list">
+				<xs:complexType>
+					<xs:sequence maxOccurs="unbounded" minOccurs="0">
+						<xs:element name="property-details" type="PropertyMapping" />
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
+			<xs:element name="project-details" type="ProjectDetails">
+			</xs:element>
+			<xs:element name="service-virtualization">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element name="soap-services-over-http-list">
+							<xs:complexType>
+								<xs:sequence maxOccurs="unbounded" minOccurs="0">
+									<xs:element name="soap-service-over-http" type="SoapServiceOverHttpDetails" />
+								</xs:sequence>
+							</xs:complexType>
+						</xs:element>
+						<xs:element name="rest-services-list">
+							<xs:complexType>
+								<xs:sequence maxOccurs="unbounded" minOccurs="0">
+									<xs:element name="rest-service" type="RestServiceDetails" />
+								</xs:sequence>
+							</xs:complexType>
+						</xs:element>
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
+			<xs:element name="service-test-list">
+				<xs:complexType>
+					<xs:sequence maxOccurs="unbounded" minOccurs="0">
+						<xs:element name="service-test-details" type="ServiceTestDetails" />
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
+		</xs:sequence>
+	</xs:complexType>
+</xs:schema>

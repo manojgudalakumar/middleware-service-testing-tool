@@ -1,0 +1,16 @@
+{
+  "request" : {
+    "url" : "/samplerestserviceimplemenation/checkEmployeePrivilege/21",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-checkEmployeePrivilege-2-sl2Bk.json",
+    "headers" : {
+      "Server" : "Apache-Coyote/1.1",
+      "Content-Type" : "application/xml",
+      "Content-Length" : "323",
+      "Date" : "Sun, 27 Jul 2014 10:33:46 GMT"
+    }
+  }
+}

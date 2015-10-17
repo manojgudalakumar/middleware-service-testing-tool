@@ -1,0 +1,24 @@
+{
+  "request" : {
+    "url" : "/maps/api/timezone/json?location=149.6034810,-119.6822510&timestamp=1331161200",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 400,
+    "bodyFileName" : "mapping-timezone-json-3vh7L.json",
+    "headers" : {
+      "Content-Type" : "application/json; charset=UTF-8",
+      "Date" : "Sat, 27 Jun 2015 12:45:03 GMT",
+      "Pragma" : "no-cache",
+      "Expires" : "Fri, 01 Jan 1990 00:00:00 GMT",
+      "Cache-Control" : "no-cache, must-revalidate",
+      "Access-Control-Allow-Origin" : "*",
+      "Content-Encoding" : "gzip",
+      "Server" : "mafe",
+      "X-XSS-Protection" : "1; mode=block",
+      "X-Frame-Options" : "SAMEORIGIN",
+      "Alternate-Protocol" : "443:quic,p=1",
+      "Transfer-Encoding" : "chunked"
+    }
+  }
+}

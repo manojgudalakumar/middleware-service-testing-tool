@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<FindEmployeeDetailsResponse>
+    <employee-user-id>2</employee-user-id>
+    <employee-details>
+        <employee-name>Manoj2</employee-name>
+        <employee-last-name>Kumar2</employee-last-name>
+        <employee-work-department>2</employee-work-department>
+        <employee-phone-number>1234567890</employee-phone-number>
+        <employee-hire-date>2014-07-20T00:00:00.000+05:30</employee-hire-date>
+        <employee-job-designation>7</employee-job-designation>
+        <employee-gender>M</employee-gender>
+        <employee-date-of-birth>1987-07-20T00:00:00.000+05:30</employee-date-of-birth>
+    </employee-details>
+</FindEmployeeDetailsResponse>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CheckEmployeePrivilegeResponse>
+    <employee-user-id>1</employee-user-id>
+    <privilege-list>
+        <employee-privilege>Insert</employee-privilege>
+        <employee-privilege>Update</employee-privilege>
+        <employee-privilege>Delete</employee-privilege>
+    </privilege-list>
+    <employee-has-privilege>true</employee-has-privilege>
+</CheckEmployeePrivilegeResponse>

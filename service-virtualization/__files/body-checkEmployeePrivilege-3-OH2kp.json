@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CheckEmployeePrivilegeResponse>
+    <employee-user-id>3</employee-user-id>
+    <privilege-list/>
+    <employee-has-privilege>false</employee-has-privilege>
+</CheckEmployeePrivilegeResponse>

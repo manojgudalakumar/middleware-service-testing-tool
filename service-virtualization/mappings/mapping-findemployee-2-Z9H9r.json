@@ -1,0 +1,16 @@
+{
+  "request" : {
+    "url" : "/samplerestserviceimplemenation/findemployee/2",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-findemployee-2-Z9H9r.json",
+    "headers" : {
+      "Server" : "Apache-Coyote/1.1",
+      "Content-Type" : "application/xml",
+      "Content-Length" : "712",
+      "Date" : "Sun, 27 Jul 2014 10:27:27 GMT"
+    }
+  }
+}

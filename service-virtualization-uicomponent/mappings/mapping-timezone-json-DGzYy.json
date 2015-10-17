@@ -1,0 +1,24 @@
+{
+  "request" : {
+    "url" : "/maps/api/timezone/json?location=59.8195810,-129.6822510&timestamp=1331161200",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-timezone-json-DGzYy.json",
+    "headers" : {
+      "Content-Type" : "application/json; charset=UTF-8",
+      "Date" : "Sat, 27 Jun 2015 16:42:27 GMT",
+      "Pragma" : "no-cache",
+      "Expires" : "Fri, 01 Jan 1990 00:00:00 GMT",
+      "Cache-Control" : "no-cache, must-revalidate",
+      "Access-Control-Allow-Origin" : "*",
+      "Content-Encoding" : "gzip",
+      "Server" : "mafe",
+      "X-XSS-Protection" : "1; mode=block",
+      "X-Frame-Options" : "SAMEORIGIN",
+      "Alternate-Protocol" : "443:quic,p=1",
+      "Transfer-Encoding" : "chunked"
+    }
+  }
+}
